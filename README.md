@@ -10,7 +10,6 @@ Two open source data salesdb and MyDatabase were used in this practise
 
 | File | Description |
 |------|--------------|
-
 | `init-sqlserver-salesdb.sql` | Code to create the database 'SalesDB' in sqlsrver. |
 | `init-sqlserver-mydatabase.sqll`   | Code to create the database 'MyDatabase' in sqlsrver.|
 | `SalesDB.bak` | Backup file for 'SalesDB' |
